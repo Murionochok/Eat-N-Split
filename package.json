@@ -1,0 +1,19 @@
+{
+  "name": "eat-n-split",
+  "version": "1.0.0",
+  "description": "Study projecth throut\u001b[D\u001b[D\u001b[Dt of React 2024 Cource",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Murionochok/Eat-N-Split.git"
+  },
+  "author": "Ivan Fedoniuk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Murionochok/Eat-N-Split/issues"
+  },
+  "homepage": "https://github.com/Murionochok/Eat-N-Split#readme"
+}
