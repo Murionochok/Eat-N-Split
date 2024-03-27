@@ -1,0 +1,33 @@
+.add-friend-menu {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  height: 150px;
+  justify-content: space-evenly;
+
+  label {
+    font-size: 18px;
+  }
+  input {
+    margin-left: 10px;
+    width: 120px;
+  }
+
+  &__name-section,
+  &__url-section {
+    display: flex;
+    justify-content: space-between;
+  }
+  &__button-section {
+    display: flex;
+    justify-content: end;
+  }
+  &__add {
+    width: 120px;
+  }
+}
+
+.close_button {
+  display: flex;
+  justify-content: end;
+}
